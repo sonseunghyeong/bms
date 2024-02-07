@@ -1,0 +1,26 @@
+﻿<UserControl x:Class="BusInformationBoard.AppHeader"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:BusInformationBoard"
+             mc:Ignorable="d" 
+             d:DesignHeight="100
+             " d:DesignWidth="1024">
+    <Grid>
+        <Grid Background="#000000" VerticalAlignment="Center">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="89*"/>
+                <ColumnDefinition Width="134*"/>
+                <ColumnDefinition Width="556*"/>
+                <ColumnDefinition Width="111*"/>
+                <ColumnDefinition Width="150"/>
+            </Grid.ColumnDefinitions>
+            <Label Name="LABEL_NAME_OF_CITY_KOR" Grid.Column="1" Foreground="White" FontSize="20" HorizontalContentAlignment="center" VerticalContentAlignment="Bottom" Content="대구광역시" HorizontalAlignment="Left" Width="132" Height="60" VerticalAlignment="Top"/>
+            <Label Name="LABEL_NAME_OF_CITY_ENGLISH" Grid.Column="1" Foreground="White" FontSize="10" HorizontalContentAlignment="center" VerticalContentAlignment="Top" Content="DAEGU CITY" HorizontalAlignment="Left" Width="132" Height="40" VerticalAlignment="Bottom"/>
+            <Label Name="LABEL_TITLE" Grid.Column="2" Foreground="White" FontSize="30" HorizontalContentAlignment="center" VerticalContentAlignment="Center" Content="버스 도착 정보 안내" HorizontalAlignment="Left" Width="546" Height="100" VerticalAlignment="Top"/>
+            <Label Name="LABEL_CURRENT_YEAR" Grid.Column="3" VerticalAlignment="Top" Foreground="White" FontSize="15" HorizontalContentAlignment="center" VerticalContentAlignment="Center" Height="100" HorizontalAlignment="Center" Width="109" Content="2024.02.02"/>
+            <Label Name="LABEL_CURRENT_TIME" Grid.Column="4" VerticalAlignment="Top" Foreground="White" FontSize="30" HorizontalContentAlignment="center" VerticalContentAlignment="Center" Height="100" HorizontalAlignment="Center" Width="150" Content="10:43 AM"/>
+        </Grid>
+    </Grid>
+</UserControl>

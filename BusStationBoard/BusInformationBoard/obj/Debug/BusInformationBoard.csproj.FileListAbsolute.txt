@@ -1,0 +1,52 @@
+D:\MyProject\Bus station Info\BusStationBoard\BusInformationBoard\obj\Debug\BusInformationBoard.csproj.AssemblyReference.cache
+D:\MyProject\Bus station Info\BusStationBoard\BusInformationBoard\obj\Debug\layout\AppHeader.g.cs
+D:\MyProject\Bus station Info\BusStationBoard\BusInformationBoard\obj\Debug\layout\BusStationInfo.g.cs
+D:\MyProject\Bus station Info\BusStationBoard\BusInformationBoard\obj\Debug\layout\ItemBusInfo.g.cs
+D:\MyProject\Bus station Info\BusStationBoard\BusInformationBoard\obj\Debug\layout\StationTitle.g.cs
+D:\MyProject\Bus station Info\BusStationBoard\BusInformationBoard\obj\Debug\MainWindow.g.cs
+D:\MyProject\Bus station Info\BusStationBoard\BusInformationBoard\obj\Debug\App.g.cs
+D:\MyProject\Bus station Info\BusStationBoard\BusInformationBoard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\MyProject\Bus station Info\BusStationBoard\BusInformationBoard\obj\Debug\BusInformationBoard_MarkupCompile.cache
+D:\MyProject\Bus station Info\BusStationBoard\BusInformationBoard\obj\Debug\BusInformationBoard_MarkupCompile.lref
+D:\MyProject\Bus station Info\BusStationBoard\BusInformationBoard\bin\Debug\BusInformationBoard.exe.config
+D:\MyProject\Bus station Info\BusStationBoard\BusInformationBoard\bin\Debug\BusInformationBoard.exe
+D:\MyProject\Bus station Info\BusStationBoard\BusInformationBoard\bin\Debug\BusInformationBoard.pdb
+D:\MyProject\Bus station Info\BusStationBoard\BusInformationBoard\obj\Debug\layout\AppHeader.baml
+D:\MyProject\Bus station Info\BusStationBoard\BusInformationBoard\obj\Debug\layout\BusStationInfo.baml
+D:\MyProject\Bus station Info\BusStationBoard\BusInformationBoard\obj\Debug\layout\ItemBusInfo.baml
+D:\MyProject\Bus station Info\BusStationBoard\BusInformationBoard\obj\Debug\layout\StationTitle.baml
+D:\MyProject\Bus station Info\BusStationBoard\BusInformationBoard\obj\Debug\MainWindow.baml
+D:\MyProject\Bus station Info\BusStationBoard\BusInformationBoard\obj\Debug\BusInformationBoard.g.resources
+D:\MyProject\Bus station Info\BusStationBoard\BusInformationBoard\obj\Debug\BusInformationBoard.Properties.Resources.resources
+D:\MyProject\Bus station Info\BusStationBoard\BusInformationBoard\obj\Debug\BusInformationBoard.csproj.GenerateResource.cache
+D:\MyProject\Bus station Info\BusStationBoard\BusInformationBoard\obj\Debug\BusInformationBoard.csproj.CoreCompileInputs.cache
+D:\MyProject\Bus station Info\BusStationBoard\BusInformationBoard\obj\Debug\BusInformationBoard.exe
+D:\MyProject\Bus station Info\BusStationBoard\BusInformationBoard\obj\Debug\BusInformationBoard.pdb
+D:\MyProject\Bus station Info\BusStationBoard\BusInformationBoard\obj\Debug\InitSetting.g.cs
+D:\MyProject\Bus station Info\BusStationBoard\BusInformationBoard\obj\Debug\InitSetting.baml
+C:\Users\Administrator\Desktop\BusStationBoard\BusStationBoard\BusInformationBoard\bin\Debug\BusInformationBoard.exe.config
+C:\Users\Administrator\Desktop\BusStationBoard\BusStationBoard\BusInformationBoard\bin\Debug\BusInformationBoard.exe
+C:\Users\Administrator\Desktop\BusStationBoard\BusStationBoard\BusInformationBoard\bin\Debug\BusInformationBoard.pdb
+C:\Users\Administrator\Desktop\BusStationBoard\BusStationBoard\BusInformationBoard\obj\Debug\BusInformationBoard.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\BusStationBoard\BusStationBoard\BusInformationBoard\obj\Debug\InitSetting.g.cs
+C:\Users\Administrator\Desktop\BusStationBoard\BusStationBoard\BusInformationBoard\obj\Debug\layout\AppHeader.g.cs
+C:\Users\Administrator\Desktop\BusStationBoard\BusStationBoard\BusInformationBoard\obj\Debug\layout\BusStationInfo.g.cs
+C:\Users\Administrator\Desktop\BusStationBoard\BusStationBoard\BusInformationBoard\obj\Debug\layout\ItemBusInfo.g.cs
+C:\Users\Administrator\Desktop\BusStationBoard\BusStationBoard\BusInformationBoard\obj\Debug\layout\StationTitle.g.cs
+C:\Users\Administrator\Desktop\BusStationBoard\BusStationBoard\BusInformationBoard\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\BusStationBoard\BusStationBoard\BusInformationBoard\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\BusStationBoard\BusStationBoard\BusInformationBoard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\BusStationBoard\BusStationBoard\BusInformationBoard\obj\Debug\BusInformationBoard_MarkupCompile.cache
+C:\Users\Administrator\Desktop\BusStationBoard\BusStationBoard\BusInformationBoard\obj\Debug\BusInformationBoard_MarkupCompile.lref
+C:\Users\Administrator\Desktop\BusStationBoard\BusStationBoard\BusInformationBoard\obj\Debug\InitSetting.baml
+C:\Users\Administrator\Desktop\BusStationBoard\BusStationBoard\BusInformationBoard\obj\Debug\layout\AppHeader.baml
+C:\Users\Administrator\Desktop\BusStationBoard\BusStationBoard\BusInformationBoard\obj\Debug\layout\BusStationInfo.baml
+C:\Users\Administrator\Desktop\BusStationBoard\BusStationBoard\BusInformationBoard\obj\Debug\layout\ItemBusInfo.baml
+C:\Users\Administrator\Desktop\BusStationBoard\BusStationBoard\BusInformationBoard\obj\Debug\layout\StationTitle.baml
+C:\Users\Administrator\Desktop\BusStationBoard\BusStationBoard\BusInformationBoard\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\BusStationBoard\BusStationBoard\BusInformationBoard\obj\Debug\BusInformationBoard.g.resources
+C:\Users\Administrator\Desktop\BusStationBoard\BusStationBoard\BusInformationBoard\obj\Debug\BusInformationBoard.Properties.Resources.resources
+C:\Users\Administrator\Desktop\BusStationBoard\BusStationBoard\BusInformationBoard\obj\Debug\BusInformationBoard.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\BusStationBoard\BusStationBoard\BusInformationBoard\obj\Debug\BusInformationBoard.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BusStationBoard\BusStationBoard\BusInformationBoard\obj\Debug\BusInformationBoard.exe
+C:\Users\Administrator\Desktop\BusStationBoard\BusStationBoard\BusInformationBoard\obj\Debug\BusInformationBoard.pdb

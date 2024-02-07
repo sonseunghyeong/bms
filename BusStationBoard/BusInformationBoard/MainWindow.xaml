@@ -1,0 +1,20 @@
+﻿<Window x:Class="BusInformationBoard.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BusInformationBoard"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="777" Width="1014"  WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="223*"/>
+        </Grid.RowDefinitions>
+        <local:AppHeader x:Name="USER_CTR_APP_HEADER"/>
+        <local:StationTitle x:Name="USER_CTR_STATION_HEADER" Margin="0,0,0,35" Grid.Row="1"/>
+        <local:BusStationInfo x:Name="USER_CTR_LEFT_BUSINFO_LEFT" Margin="10,155,502,0" Grid.Row="1" Grid.RowSpan="2"/>
+        <local:BusStationInfo x:Name="USER_CTR_LEFT_BUSINFO_RIGHT" Margin="509,155,3,0" Grid.Row="1" Grid.RowSpan="2"/>
+    </Grid>
+</Window>

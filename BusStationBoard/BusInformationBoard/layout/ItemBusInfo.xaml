@@ -1,0 +1,27 @@
+﻿<UserControl x:Class="BusInformationBoard.ItemBusInfo"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:BusInformationBoard"
+             mc:Ignorable="d" 
+             d:DesignHeight="100" d:DesignWidth="510">
+    <Grid Background="White" Margin="0,0,0,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="50*"/>
+            <ColumnDefinition Width="50*"/>
+            <ColumnDefinition Width="150*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="동구" HorizontalAlignment="Center" FontSize="20" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" VerticalAlignment="Top" Margin="19,25,9,0" Height="45" Width="70" Background="#FF003AFF" Foreground="White"/>
+        <Label Content="7분" HorizontalAlignment="Center" FontSize="20" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" VerticalAlignment="Top" Margin="14,25,14,0" Height="45" Width="70" Grid.Column="1" Foreground="#FF000CFF"/>
+        <Label Content="전" HorizontalAlignment="Center" FontSize="20" HorizontalContentAlignment="Right" VerticalContentAlignment="Center" VerticalAlignment="Top" Margin="4,25,44,0" Height="45" Width="50" Foreground="#FF000CFF" Grid.Column="1"/>
+        <Label Content="정류소" HorizontalAlignment="Center" FontSize="00" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" VerticalAlignment="Top" Margin="49,45,4,0" Height="25" Width="45" Grid.Column="1" Foreground="#FF000CFF"/>
+        <Label Content="4" HorizontalAlignment="Center" FontSize="15" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" VerticalAlignment="Top" Margin="18,59,266,0" Height="30" Width="30" Grid.Column="2" Foreground="White" Background="#FF0C00FF"/>
+        <Label Content="4" HorizontalAlignment="Center" FontSize="15" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" VerticalAlignment="Top" Margin="78,59,206,0" Height="30" Width="30" Grid.Column="2" Foreground="White" Background="#FF0C00FF"/>
+        <Label Content="4" HorizontalAlignment="Center" FontSize="15" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" VerticalAlignment="Top" Margin="142,59,142,0" Height="30" Width="30" Grid.Column="2" Foreground="White" Background="#FF0C00FF"/>
+        <Label Content="4" HorizontalAlignment="Center" FontSize="15" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" VerticalAlignment="Top" Margin="208,59,76,0" Height="30" Width="30" Grid.Column="2" Foreground="White" Background="#FF0C00FF"/>
+        <Label Content="4" HorizontalAlignment="Center" FontSize="15" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" VerticalAlignment="Top" Margin="270,59,14,0" Height="30" Width="30" Grid.Column="2" Foreground="White" Background="#FF0C00FF"/>
+        <Image Grid.Column="2" HorizontalAlignment="Left" Height="50" Margin="135,15,0,0" VerticalAlignment="Top" Width="50" 
+               Source="../assets/img/icon-bus.png"/>
+    </Grid>
+</UserControl>

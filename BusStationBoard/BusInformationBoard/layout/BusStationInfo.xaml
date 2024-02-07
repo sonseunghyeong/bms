@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="BusInformationBoard.BusStationInfo"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:BusInformationBoard"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="512">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="50*"/>
+            <ColumnDefinition Width="50*"/>
+            <ColumnDefinition Width="150*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="70*"/>
+            <RowDefinition Height="10*"/>
+        </Grid.RowDefinitions>
+        <Label Content="노선번호" HorizontalAlignment="Left" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Height="50" VerticalAlignment="Top" Width="102" Background="Black" Foreground="White" FontSize="15"/>
+        <Label Content="도착예정" HorizontalAlignment="Left" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Height="50" VerticalAlignment="Top" Width="103" Background="Black" Foreground="White" FontSize="15" Grid.Column="1"/>
+        <Label Content="버스 현재 위치" HorizontalAlignment="Left" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Height="50" VerticalAlignment="Top" Width="307" Background="Black" Foreground="White" FontSize="15" Grid.Column="2"/>
+
+        <Label Content="정차노선" HorizontalAlignment="Left" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Height="50" VerticalAlignment="Top" Width="102" Background="Black" Foreground="White" FontSize="15" Grid.Row="2"/>
+        <Grid x:Name="GRID_BUS_ARIVAL_BOTTOM_DESCRIPTION" RenderTransformOrigin="0.688,3.4" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2" Margin="0,0,0,0">
+            <Image Grid.Column="1" HorizontalAlignment="Left" Height="50" Margin="40,0,0,0" VerticalAlignment="Top" Width="50" 
+                   Source="../assets/img/icon-bus.png" Grid.Row="2"/>
+            <Label Content="팔거역 노선 정보 ~~~" HorizontalAlignment="Left" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Height="50" VerticalAlignment="Top" Width="725" Background="White" Foreground="Black" FontSize="25" Margin="105,0,-670,0"/>
+        </Grid>
+    </Grid>
+</UserControl>
